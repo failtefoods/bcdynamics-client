@@ -1,0 +1,14 @@
+{
+  "name": "bcdynamics-client",
+  "module": "src/index.ts",
+  "type": "module",
+  "declaration": true,
+  "types": "dist/index.d.ts",
+  "devDependencies": {
+    "bun-types": "latest",
+    "typescript": "^5.3.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
